@@ -1,0 +1,2 @@
+# test_mygit
+测试linux上的git是否可以下载github上仓库里面的文件
